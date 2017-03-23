@@ -1,0 +1,7 @@
+#Thu Mar 23 22:41:17 CST 2017
+base.0=F\:\\Android\\AutoDownAndIns\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69882943373f015403dd2a632d165fe12cbedc0a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android\\AutoDownAndIns\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f65cf5fca227fdbb4e060f9632a61414843dd38\\classes.dex
+base.1=F\:\\Android\\AutoDownAndIns\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4f65cf5fca227fdbb4e060f9632a61414843dd38
+file.0=F\:\\Android\\AutoDownAndIns\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69882943373f015403dd2a632d165fe12cbedc0a\\classes.dex
